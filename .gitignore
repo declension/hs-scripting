@@ -3,3 +3,4 @@ scripting.cabal
 *~
 out/
 .idea/
+*.iml
