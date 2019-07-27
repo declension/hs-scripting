@@ -1,5 +1,5 @@
 .stack-work/
 scripting.cabal
 *~
-
+out/
 .idea/
