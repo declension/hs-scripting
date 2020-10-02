@@ -1,5 +1,5 @@
 name:                scripting
-version:             0.1.0.0
+version:             0.1.1.0
 github:              "declension/scripting"
 license:             BSD3
 author:              "Nick Boultbee"
@@ -9,7 +9,7 @@ copyright:           "All Rights Reserved"
 extra-source-files:
 - README.md
 
-description:         Please see the README on GitHub at <https://github.com/declension/scripting#readme>
+description:         Please see the README on GitHub at <https://github.com/declension/hs-scripting>
 
 dependencies:
 - base >= 4.7 && < 5

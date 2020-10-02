@@ -13,7 +13,7 @@ packages:
     hackage: lens-regex-pcre-0.3.1.0@sha256:c0f222a6bb2fd5dab9b45488644e4f0ff00c045ecf725653ee125c872abf963c,1619
 snapshots:
 - completed:
-    size: 496697
-    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/13/9.yaml
-    sha256: 3846ba7d13dd1b2679426dc3f450332a3b8a181063b0f3fc2d0c7d55db2e9c24
-  original: lts-13.9
+    size: 531718
+    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/16/6.yaml
+    sha256: 230a7266fc11f76222bd3bb68e9503ed11d553060a752f164bff6753ed03e271
+  original: lts-16.6

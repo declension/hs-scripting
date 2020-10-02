@@ -13,7 +13,7 @@ as decent regexes seem useful on the command line.
 Why?
 ----
 
-To prove (to myself?) it's as easy (and fast enough) as is now claimed. 
+To prove (to myself?) it's as easy and fast to run as is now claimed. 
 
 
 How?

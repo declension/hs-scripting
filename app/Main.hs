@@ -1,8 +1,8 @@
 #!/usr/bin/env stack
-{- stack --resolver lts-13.9 script
-       --package text
-       --package lens
-       --package lens-regex-pcre
+{- stack --resolver lts-16.6 script
+         --package text
+         --package lens
+         --package lens-regex-pcre
 -}
 {-# LANGUAGE QuasiQuotes #-}
 
